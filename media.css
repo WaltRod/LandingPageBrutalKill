@@ -1,0 +1,145 @@
+@media screen and (max-width: 1280px){
+    .rodape{
+        display: none;
+    }
+}
+
+
+
+@media screen and (max-width: 1024px){
+body{
+        margin: 0 auto;
+        width: 100%;
+        margin-left: 20px;
+        overflow-x: hidden;
+        background-image: url(./imagens/model1.jpg);
+        background-repeat: no-repeat;
+        background-size: 600px;
+}
+.logo1{
+    width: 200px;
+    margin-left: 80px;
+}
+.div1{
+    background-color: black;
+    width: 200px;
+    margin-left: -330px;
+    border-radius: 30px;
+}
+
+.promo{
+    font-size: 70px;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+.p1{
+    font-size: 18px;
+}
+
+.p2{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.btn1{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.head{
+    display: none;
+}
+
+.logo2{
+    display: none;
+}
+.text1{
+    display: none;
+}
+.text{
+    display: none;
+}
+
+.login1{
+    display: none;
+}
+
+.rodape{
+    background-color: white;
+    width: 380px;
+    margin-left: -660px;
+    margin-top: 194px;
+}
+
+}
+@media screen and (max-width: 760px){
+    body{
+        margin: 0 auto;
+        width: 100%;
+        margin-left: 20px;
+        overflow-x: hidden;
+        background-image: url(./imagens/model1.jpg);
+        background-repeat: no-repeat;
+        background-size: 600px;
+}
+.logo1{
+    width: 200px;
+    margin-left: 80px;
+}
+.div1{
+    background-color: black;
+    width: 200px;
+    margin-left: -330px;
+    border-radius: 30px;
+}
+
+.promo{
+    font-size: 70px;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+.p1{
+    font-size: 18px;
+}
+
+.p2{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.btn1{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.head{
+    display: none;
+}
+
+.logo2{
+    display: none;
+}
+.text1{
+    display: none;
+}
+.text{
+    display: none;
+}
+
+.login1{
+    display: none;
+}
+
+.rodape{
+    background-color: white;
+    width: 365px;
+    margin-left: -650px;
+    margin-top: 265px;
+}  
+}
